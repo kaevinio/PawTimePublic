@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  PawTime
+
+  Created by Kaevin on 30.11.23.
+  
+*/
+
+// MARK: - Actions
+
+"again" = "Encore";
+"calculate" = "Calculer";
+"done" = "Terminé";
+"share" = "Partager";
+
+
+// MARK: - Onboarding
+
+"letsGo" = "Allons-y !";
+"onboardingDetail1" = "Calculez l'âge de votre chien en années humaines pour voir quel âge il/elle a.";
+"onboardingHeader1" = "Âge";
+"onboardingDetail2" = "Ajoutez la photo, le nom, la date de naissance et la taille de votre chien.";
+"onboardingHeader2" = "Infos";
+"onboardingDetail3" = "Partagez les résultats avec vos amis ou sur les réseaux sociaux.";
+"onboardingHeader3" = "Partager";
+"welcomeTo" = "Bienvenue à";
+
+
+// MARK: - Placeholder
+
+"ageIsCalculating" = "Calcul de l'âge en cours ...";
+
+
+// MARK: - Sizes
+
+"small" = "Petit";
+"giant" = "Géant";
+"medium" = "Moyen";
+"large" = "Grand";
+
+
+// MARK: - Time
+
+"birthdate" = "Date de naissance";
+"day" = "Jour";
+"days" = "Jours";
+"dogAge" = "Âge du chien";
+"humanAge" = "Âge humain";
+"month" = "Mois";
+"months" = "Mois";
+"year" = "Année";
+"years" = "Années";
+
+// MARK: - Values
+
+"name" = "Nom";
+"myDog" = "Mon Chien";
+"privacy" = "Confidentialité";
+"result" = "Résultat";
+"shareMessage" = "Regardez l'âge de mon chien en années humaines 🐶👶 #PawTime";
+"size" = "Taille";
+"terms" = "Conditions";

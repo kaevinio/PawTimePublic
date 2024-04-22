@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  PawTime
+
+  Created by Kaevin on 30.11.23.
+  
+*/
+
+// MARK: - Actions
+
+"again" = "Otra vez";
+"calculate" = "Calcular";
+"done" = "Hecho";
+"share" = "Compartir";
+
+
+// MARK: - Onboarding
+
+"letsGo" = "¡Vamos!";
+"onboardingDetail1" = "Calcula la edad de tu perro en años humanos para ver cuántos años tiene.";
+"onboardingHeader1" = "Edad";
+"onboardingDetail2" = "Añade la foto, el nombre, la fecha de nacimiento y el tamaño de tu perro.";
+"onboardingHeader2" = "Información";
+"onboardingDetail3" = "Comparte los resultados con tus amigos o en redes sociales.";
+"onboardingHeader3" = "Compartir";
+"welcomeTo" = "Bienvenido a";
+
+
+// MARK: - Placeholder
+
+"ageIsCalculating" = "Calculando edad ...";
+
+
+// MARK: - Sizes
+
+"small" = "Pequeño";
+"giant" = "Gigante";
+"medium" = "Mediano";
+"large" = "Grande";
+
+
+// MARK: - Time
+
+"birthdate" = "Fecha de nacimiento";
+"day" = "Día";
+"days" = "Días";
+"dogAge" = "Edad del perro";
+"humanAge" = "Edad humana";
+"month" = "Mes";
+"months" = "Meses";
+"year" = "Año";
+"years" = "Años";
+
+
+// MARK: - Values
+
+"name" = "Nombre";
+"myDog" = "Mi Perro";
+"privacy" = "Privacidad";
+"result" = "Resultado";
+"shareMessage" = "Mira la edad de mi perro en años humanos 🐶👶 #PawTime";
+"size" = "Tamaño";
+"terms" = "Términos";

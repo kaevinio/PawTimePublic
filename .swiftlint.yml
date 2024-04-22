@@ -1,0 +1,56 @@
+reporter: "xcode"
+
+excluded:
+  - Pods
+
+disabled_rules:
+  - cyclomatic_complexity
+  - function_body_length
+  - function_parameter_count
+  - large_tuple
+  - line_length
+  - trailing_whitespace
+  - type_body_length
+  - vertical_whitespace
+  - blanket_disable_command
+
+analyzer_rules:
+  - explicit_self
+  - unused_import
+  
+opt_in_rules:
+  - array_init
+  - closure_end_indentation
+  - closure_spacing
+  - contains_over_first_not_nil
+  - empty_count
+  - empty_string
+  - explicit_init
+  - force_unwrapping
+  - identical_operands
+  - implicit_return
+  - joined_default_parameter
+  - last_where
+  - legacy_random
+  - literal_expression_end_indentation
+  - modifier_order
+  - prohibited_interface_builder
+  - quick_discouraged_call
+  - redundant_nil_coalescing
+  - redundant_type_annotation
+  - sorted_first_last
+  - static_operator
+  - toggle_bool
+  - trailing_closure
+  - unavailable_function
+  - unneeded_parentheses_in_closure_argument
+  - yoda_condition
+
+identifier_name:
+  allowed_symbols: ["_"]
+  excluded:
+    - id
+
+file_length:
+  warning: 1000
+  error: 1500

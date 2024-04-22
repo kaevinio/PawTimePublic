@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  PawTime
+
+  Created by Kaevin on 30.11.23.
+  
+*/
+
+// MARK: - Actions
+
+"again" = "Again";
+"calculate" = "Calculate";
+"done" = "Done";
+"share" = "Share";
+
+
+// MARK: - Onboarding
+
+"letsGo" = "Let's go!";
+"onboardingDetail1" = "Calculate your dog's age in human years to see how old he/she is.";
+"onboardingHeader1" = "Age";
+"onboardingDetail2" = "Add your dog's photo, name, birthdate and size.";
+"onboardingHeader2" = "Info";
+"onboardingDetail3" = "Share the results with your friends or on Social Media.";
+"onboardingHeader3" = "Share";
+"welcomeTo" = "Welcome to";
+
+
+// MARK: - Placeholder
+
+"ageIsCalculating" = "Calculating age ...";
+
+
+// MARK: - Sizes
+
+"small" = "Small";
+"giant" = "Giant";
+"medium" = "Medium";
+"large" = "Large";
+
+
+// MARK: - Time
+
+"birthdate" = "Birthdate";
+"day" = "Day";
+"days" = "Days";
+"dogAge" = "Dog Age";
+"humanAge" = "Human Age";
+"month" = "Month";
+"months" = "Months";
+"year" = "Year";
+"years" = "Years";
+
+
+// MARK: - Values
+
+"name" = "Name";
+"myDog" = "My Dog";
+"privacy" = "Privacy";
+"result" = "Result";
+"shareMessage" = "Check out my dog's age in human years 🐶👶 #PawTime";
+"size" = "Size";
+"terms" = "Terms";

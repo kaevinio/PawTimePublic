@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  PawTime
+
+  Created by Kaevin on 30.11.23.
+  
+*/
+
+// MARK: - Actions
+
+"again" = "Ancora";
+"calculate" = "Calcola";
+"done" = "Fatto";
+"share" = "Condividi";
+
+
+// MARK: - Onboarding
+
+"letsGo" = "Andiamo!";
+"onboardingDetail1" = "Calcola l'età del tuo cane in anni umani per vedere quanti anni ha.";
+"onboardingHeader1" = "Età";
+"onboardingDetail2" = "Aggiungi la foto, il nome, la data di nascita e la taglia del tuo cane.";
+"onboardingHeader2" = "Info";
+"onboardingDetail3" = "Condividi i risultati con i tuoi amici o sui social media.";
+"onboardingHeader3" = "Condividi";
+"welcomeTo" = "Benvenuto a";
+
+
+// MARK: - Placeholder
+
+"ageIsCalculating" = "Calcolo dell'età in corso ...";
+
+
+// MARK: - Sizes
+
+"small" = "Piccolo";
+"giant" = "Gigante";
+"medium" = "Medio";
+"large" = "Grande";
+
+
+// MARK: - Time
+
+"birthdate" = "Data di nascita";
+"day" = "Giorno";
+"days" = "Giorni";
+"dogAge" = "Età del cane";
+"humanAge" = "Età umana";
+"month" = "Mese";
+"months" = "Mesi";
+"year" = "Anno";
+"years" = "Anni";
+
+
+// MARK: - Values
+
+"name" = "Nome";
+"myDog" = "Il Mio Cane";
+"privacy" = "Privacy";
+"result" = "Risultato";
+"shareMessage" = "Guarda l'età del mio cane in anni umani 🐶👶 #PawTime";
+"size" = "Dimensione";
+"terms" = "Termini";

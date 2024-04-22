@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  PawTime
+
+  Created by Kaevin on 30.11.23.
+  
+*/
+
+// MARK: - Actions
+
+"again" = "Nochmal";
+"calculate" = "Berechnen";
+"done" = "Fertig";
+"share" = "Teilen";
+
+
+// MARK: - Onboarding
+
+"letsGo" = "Los geht's!";
+"onboardingDetail1" = "Berechne das Alter deines Hundes in Menschenjahren, um zu sehen, wie alt er/sie ist.";
+"onboardingHeader1" = "Alter";
+"onboardingDetail2" = "Füge ein Foto, den Namen, das Geburtsdatum und die Größe deines Hundes hinzu.";
+"onboardingHeader2" = "Info";
+"onboardingDetail3" = "Teile die Ergebnisse mit deinen Freunden oder auf Social Media.";
+"onboardingHeader3" = "Teilen";
+"welcomeTo" = "Willkommen bei";
+
+
+// MARK: - Placeholder
+
+"ageIsCalculating" = "Alter wird berechnet ...";
+
+
+// MARK: - Sizes
+
+"small" = "Klein";
+"giant" = "Riesig";
+"medium" = "Mittel";
+"large" = "Groß";
+
+
+// MARK: - Time
+
+"birthdate" = "Geburtsdatum";
+"day" = "Tag";
+"days" = "Tage";
+"dogAge" = "Hundealter";
+"humanAge" = "Menschenalter";
+"month" = "Monat";
+"months" = "Monate";
+"year" = "Jahr";
+"years" = "Jahre";
+
+
+// MARK: - Values
+
+"name" = "Name";
+"myDog" = "Mein Hund";
+"privacy" = "Datenschutz";
+"result" = "Ergebnis";
+"shareMessage" = "Schau dir das Alter meines Hundes in Menschenjahren an 🐶👶 #PawTime";
+"size" = "Größe";
+"terms" = "Bedingungen";
