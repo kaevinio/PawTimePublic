@@ -21,4 +21,4 @@ Get detailed insights on your dog's current age as well as their age in human ye
 
 ## Download
 
-[<img src="assets/readme_download.png" width="100">](https://apps.apple.com/us/app/id6473553918)
+[<img src="assets/readme_download.png" width="175">](https://apps.apple.com/us/app/id6473553918)
